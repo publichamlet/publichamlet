@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @publichamlet
-- 👀 I’m interested in coding, travelling and driving
+- 👀 I’m interested in coding, analytics, Machine Learning, AI, travelling, and driving
 - 🌱 I’m currently learning data science, machine learning
 - 💞️ I’m looking to collaborate on anything realated to python language
 - 📫 I'm available 
